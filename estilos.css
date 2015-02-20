@@ -57,6 +57,7 @@ header h1
 
 header #avatar 
 {
+	margin: 0.5em 1em 0 0;
 	position: absolute;
 	right: 0;
 	top: 0;
@@ -80,6 +81,7 @@ nav
 {
 	background: #80BCA3;
 	padding: 0 0.5em;
+	position: relative;
 }
 
 nav ul
@@ -87,7 +89,6 @@ nav ul
 	list-style: none;
 	margin: 0;
 	padding: 0;
-	position: relative;
 }
 nav ul #publicar_nav
 {
